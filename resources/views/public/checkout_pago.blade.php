@@ -383,7 +383,7 @@
       });
       Culqi.options({
         style: {
-          logo: 'http://decotab.mundoweb.localhost/images/svg/logo_decotab_header.svg',
+          logo: `${location.origin}/images/svg/logo_boost_header.svg`,
           bannerColor: '#272727'
         }
       })
