@@ -383,7 +383,7 @@
       });
       Culqi.options({
         style: {
-          logo: `${location.origin}/images/svg/logo_boost_header.svg`,
+          logo: `${location.origin}/images/svg/logo_decotab_header.svg`,
           bannerColor: '#272727'
         }
       })

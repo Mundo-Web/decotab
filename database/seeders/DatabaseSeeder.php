@@ -36,6 +36,8 @@ class DatabaseSeeder extends Seeder
             MessageSeeder::class,
             GeneralSeeder::class,
             CategorySeeder::class,
+            SubCategorySeeder::class,
+            ProductSeeder::class,
             FaqsSeeder::class,
             BeneficiosSeeder::class,
             SliderSeeder::class
