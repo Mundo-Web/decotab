@@ -182,6 +182,7 @@
                       src="{{ $x->image_texture ? asset($x->image_texture) : asset('images/img/cromo.jpeg') }}"
                       alt="{{ $x->producto }}">
                   </a>
+                 
                 @endforeach
               </div>
             @endif

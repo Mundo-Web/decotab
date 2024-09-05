@@ -42,6 +42,7 @@ class DatabaseSeeder extends Seeder
             BeneficiosSeeder::class,
             SliderSeeder::class,
             StatusSeeder::class,
+            NewUserSeeder::class,
             //ServiceSeeder::class,
         ]);
     }
